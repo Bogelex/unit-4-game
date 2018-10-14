@@ -72,6 +72,15 @@ h1{
     position: relative; 
     background-color: goldenrod;
 }
+#score1{
+    clear: both; 
+    float: left; 
+    margin-top: 5px;
+    display: block; 
+    position: relative; 
+    background-color: goldenrod;
+}
+
 .totalscore{
 float: left;
 margin-right: 4px;
@@ -79,4 +88,7 @@ width:150px;
 height:80px;
 background-color:goldenrod;
 color: aliceblue;
+}
+p{
+    margin-left: 2px;
 }
